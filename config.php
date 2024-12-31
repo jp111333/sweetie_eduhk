@@ -9,7 +9,7 @@ $CFG->dblibrary = 'native';
 $CFG->dbhost    = 'localhost';
 $CFG->dbname    = 'moodle';
 $CFG->dbuser    = 'root';
-$CFG->dbpass    = 'wsll1243';
+$CFG->dbpass    = 'sweetie2025';
 $CFG->prefix    = 'mdl_';
 $CFG->dboptions = array (
   'dbpersist' => 0,
@@ -18,7 +18,7 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8mb4_unicode_ci',
 );
 
-$CFG->wwwroot   = 'http://47.119.153.231:80';
+$CFG->wwwroot   = 'https://sweetie.eduhk.hk';
 $CFG->dataroot  = '/var/www/moodledata';
 $CFG->admin     = 'admin';
 
